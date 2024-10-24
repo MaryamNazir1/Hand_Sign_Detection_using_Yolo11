@@ -1,0 +1,103 @@
+{"time":"2024-10-21T11:07:59.485491342Z","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-21T11:07:59.487731047Z","level":"INFO","msg":"created symlink","path":"/content/drive/MyDrive/Yolo_dataset/wandb/run-20241021_110759-3nta050x/logs/debug-core.log"}
+{"time":"2024-10-21T11:07:59.502215088Z","level":"INFO","msg":"created new stream","id":"3nta050x"}
+{"time":"2024-10-21T11:07:59.503418623Z","level":"INFO","msg":"stream: started","id":"3nta050x"}
+{"time":"2024-10-21T11:07:59.503429015Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"3nta050x"}}
+{"time":"2024-10-21T11:07:59.503526689Z","level":"INFO","msg":"handler: started","stream_id":{"value":"3nta050x"}}
+{"time":"2024-10-21T11:07:59.503551641Z","level":"INFO","msg":"sender: started","stream_id":{"value":"3nta050x"}}
+{"time":"2024-10-21T11:08:05.113897472Z","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-21T11:08:05.121959886Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-21T11:38:20.66694944Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-21T11:38:23.508601432Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-21T11:39:47.793510183Z","level":"WARN","msg":"handler: ignoring partial history record","step":1,"current":30}
+{"time":"2024-10-21T11:39:47.797423453Z","level":"WARN","msg":"handler: ignoring partial history record","step":1,"current":30}
+{"time":"2024-10-21T11:39:54.311045613Z","level":"WARN","msg":"handler: ignoring partial history record","step":1,"current":30}
+{"time":"2024-10-21T11:39:54.482147085Z","level":"WARN","msg":"handler: ignoring partial history record","step":1,"current":30}
+{"time":"2024-10-21T11:39:54.688728963Z","level":"WARN","msg":"handler: ignoring partial history record","step":1,"current":30}
+{"time":"2024-10-21T11:39:54.867429376Z","level":"WARN","msg":"handler: ignoring partial history record","step":1,"current":30}
+{"time":"2024-10-21T11:39:55.157172722Z","level":"WARN","msg":"handler: ignoring partial history record","step":1,"current":30}
+{"time":"2024-10-21T11:39:55.936853649Z","level":"WARN","msg":"handler: ignoring partial history record","step":1,"current":30}
+{"time":"2024-10-21T11:40:46.192436308Z","level":"WARN","msg":"handler: ignoring partial history record","step":2,"current":30}
+{"time":"2024-10-21T11:40:46.192694239Z","level":"WARN","msg":"handler: ignoring partial history record","step":2,"current":30}
+{"time":"2024-10-21T11:40:52.682989241Z","level":"WARN","msg":"handler: ignoring partial history record","step":2,"current":30}
+{"time":"2024-10-21T11:41:39.234123041Z","level":"WARN","msg":"handler: ignoring partial history record","step":3,"current":30}
+{"time":"2024-10-21T11:41:39.241186571Z","level":"WARN","msg":"handler: ignoring partial history record","step":3,"current":30}
+{"time":"2024-10-21T11:41:44.558281109Z","level":"WARN","msg":"handler: ignoring partial history record","step":3,"current":30}
+{"time":"2024-10-21T11:42:31.885686267Z","level":"WARN","msg":"handler: ignoring partial history record","step":4,"current":30}
+{"time":"2024-10-21T11:42:31.88592428Z","level":"WARN","msg":"handler: ignoring partial history record","step":4,"current":30}
+{"time":"2024-10-21T11:42:38.372208175Z","level":"WARN","msg":"handler: ignoring partial history record","step":4,"current":30}
+{"time":"2024-10-21T11:43:24.177945403Z","level":"WARN","msg":"handler: ignoring partial history record","step":5,"current":30}
+{"time":"2024-10-21T11:43:24.181285064Z","level":"WARN","msg":"handler: ignoring partial history record","step":5,"current":30}
+{"time":"2024-10-21T11:43:30.603371106Z","level":"WARN","msg":"handler: ignoring partial history record","step":5,"current":30}
+{"time":"2024-10-21T11:44:18.306551897Z","level":"WARN","msg":"handler: ignoring partial history record","step":6,"current":30}
+{"time":"2024-10-21T11:44:18.309613585Z","level":"WARN","msg":"handler: ignoring partial history record","step":6,"current":30}
+{"time":"2024-10-21T11:44:22.917558173Z","level":"WARN","msg":"handler: ignoring partial history record","step":6,"current":30}
+{"time":"2024-10-21T11:45:10.367544386Z","level":"WARN","msg":"handler: ignoring partial history record","step":7,"current":30}
+{"time":"2024-10-21T11:45:10.368685756Z","level":"WARN","msg":"handler: ignoring partial history record","step":7,"current":30}
+{"time":"2024-10-21T11:45:16.650617838Z","level":"WARN","msg":"handler: ignoring partial history record","step":7,"current":30}
+{"time":"2024-10-21T11:46:03.997059961Z","level":"WARN","msg":"handler: ignoring partial history record","step":8,"current":30}
+{"time":"2024-10-21T11:46:03.997262798Z","level":"WARN","msg":"handler: ignoring partial history record","step":8,"current":30}
+{"time":"2024-10-21T11:46:12.396331492Z","level":"WARN","msg":"handler: ignoring partial history record","step":8,"current":30}
+{"time":"2024-10-21T11:46:56.175617695Z","level":"WARN","msg":"handler: ignoring partial history record","step":9,"current":30}
+{"time":"2024-10-21T11:46:56.178435031Z","level":"WARN","msg":"handler: ignoring partial history record","step":9,"current":30}
+{"time":"2024-10-21T11:47:00.918597744Z","level":"WARN","msg":"handler: ignoring partial history record","step":9,"current":30}
+{"time":"2024-10-21T11:47:47.571189796Z","level":"WARN","msg":"handler: ignoring partial history record","step":10,"current":30}
+{"time":"2024-10-21T11:47:47.57181913Z","level":"WARN","msg":"handler: ignoring partial history record","step":10,"current":30}
+{"time":"2024-10-21T11:47:54.478329197Z","level":"WARN","msg":"handler: ignoring partial history record","step":10,"current":30}
+{"time":"2024-10-21T11:48:39.02048701Z","level":"WARN","msg":"handler: ignoring partial history record","step":11,"current":30}
+{"time":"2024-10-21T11:48:39.022365267Z","level":"WARN","msg":"handler: ignoring partial history record","step":11,"current":30}
+{"time":"2024-10-21T11:48:46.921383082Z","level":"WARN","msg":"handler: ignoring partial history record","step":11,"current":30}
+{"time":"2024-10-21T11:49:33.518016525Z","level":"WARN","msg":"handler: ignoring partial history record","step":12,"current":30}
+{"time":"2024-10-21T11:49:33.518589615Z","level":"WARN","msg":"handler: ignoring partial history record","step":12,"current":30}
+{"time":"2024-10-21T11:49:38.20239632Z","level":"WARN","msg":"handler: ignoring partial history record","step":12,"current":30}
+{"time":"2024-10-21T11:50:27.910759599Z","level":"WARN","msg":"handler: ignoring partial history record","step":13,"current":30}
+{"time":"2024-10-21T11:50:27.915720667Z","level":"WARN","msg":"handler: ignoring partial history record","step":13,"current":30}
+{"time":"2024-10-21T11:50:32.518011917Z","level":"WARN","msg":"handler: ignoring partial history record","step":13,"current":30}
+{"time":"2024-10-21T11:51:15.514459891Z","level":"WARN","msg":"handler: ignoring partial history record","step":14,"current":30}
+{"time":"2024-10-21T11:51:15.517898034Z","level":"WARN","msg":"handler: ignoring partial history record","step":14,"current":30}
+{"time":"2024-10-21T11:51:23.870517995Z","level":"WARN","msg":"handler: ignoring partial history record","step":14,"current":30}
+{"time":"2024-10-21T11:52:07.547993376Z","level":"WARN","msg":"handler: ignoring partial history record","step":15,"current":30}
+{"time":"2024-10-21T11:52:07.548826165Z","level":"WARN","msg":"handler: ignoring partial history record","step":15,"current":30}
+{"time":"2024-10-21T11:52:12.536318418Z","level":"WARN","msg":"handler: ignoring partial history record","step":15,"current":30}
+{"time":"2024-10-21T11:52:53.663860271Z","level":"WARN","msg":"handler: ignoring partial history record","step":16,"current":30}
+{"time":"2024-10-21T11:52:53.664617802Z","level":"WARN","msg":"handler: ignoring partial history record","step":16,"current":30}
+{"time":"2024-10-21T11:53:01.182825535Z","level":"WARN","msg":"handler: ignoring partial history record","step":16,"current":30}
+{"time":"2024-10-21T11:53:44.149339456Z","level":"WARN","msg":"handler: ignoring partial history record","step":17,"current":30}
+{"time":"2024-10-21T11:53:44.149888767Z","level":"WARN","msg":"handler: ignoring partial history record","step":17,"current":30}
+{"time":"2024-10-21T11:53:49.193132404Z","level":"WARN","msg":"handler: ignoring partial history record","step":17,"current":30}
+{"time":"2024-10-21T11:54:37.084162741Z","level":"WARN","msg":"handler: ignoring partial history record","step":18,"current":30}
+{"time":"2024-10-21T11:54:37.084784865Z","level":"WARN","msg":"handler: ignoring partial history record","step":18,"current":30}
+{"time":"2024-10-21T11:54:41.741392429Z","level":"WARN","msg":"handler: ignoring partial history record","step":18,"current":30}
+{"time":"2024-10-21T11:55:28.590713245Z","level":"WARN","msg":"handler: ignoring partial history record","step":19,"current":30}
+{"time":"2024-10-21T11:55:28.59091109Z","level":"WARN","msg":"handler: ignoring partial history record","step":19,"current":30}
+{"time":"2024-10-21T11:55:35.367998857Z","level":"WARN","msg":"handler: ignoring partial history record","step":19,"current":30}
+{"time":"2024-10-21T11:56:20.389140442Z","level":"WARN","msg":"handler: ignoring partial history record","step":20,"current":30}
+{"time":"2024-10-21T11:56:20.389356057Z","level":"WARN","msg":"handler: ignoring partial history record","step":20,"current":30}
+{"time":"2024-10-21T11:56:21.571367628Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-21T11:56:21.643797782Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-21T11:56:25.067791628Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-21T11:56:30.740036641Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-21T11:56:34.169365557Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-21T11:56:41.221979826Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-21T11:56:44.627520861Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-21T11:56:44.637927094Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-21T11:56:44.640484611Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-21T11:56:44.652381585Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-21T11:56:44.683222551Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-21T11:56:49.653654448Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-21T11:56:49.705595476Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-21T11:56:53.63637306Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-21T11:56:57.292737998Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-21T11:57:00.195329151Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-21T11:57:00.202636517Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-21T11:57:10.940846526Z","level":"INFO","msg":"stream: closing","id":"3nta050x"}
+{"time":"2024-10-21T11:57:10.940990806Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-21T11:57:10.943608358Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-21T11:57:11.225111109Z","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-10-21T11:57:11.225219737Z","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-10-21T11:57:11.225300791Z","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-10-21T11:57:12.517992236Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-21T11:57:12.850226021Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"3nta050x"}}
+{"time":"2024-10-21T11:57:12.850357739Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"3nta050x"}}
+{"time":"2024-10-21T11:57:12.850406991Z","level":"INFO","msg":"sender: closed","stream_id":{"value":"3nta050x"}}
+{"time":"2024-10-21T11:57:12.853871701Z","level":"INFO","msg":"stream: closed","id":"3nta050x"}

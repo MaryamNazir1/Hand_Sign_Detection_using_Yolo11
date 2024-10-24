@@ -1,0 +1,39 @@
+{
+  "os":  "Linux-6.1.85+-x86_64-with-glibc2.35",
+  "python":  "3.10.12",
+  "startedAt":  "2024-10-22T09:41:58.949726Z",
+  "program":  "Untitled0.ipynb",
+  "email":  "nazirmaryam452@gmail.com",
+  "root":  "/content/drive/MyDrive/Yolo_dataset",
+  "host":  "c7aaf2e4e179",
+  "username":  "root",
+  "executable":  "/usr/bin/python3",
+  "codePathLocal":  "Untitled0.ipynb",
+  "colab":  "https://colab.research.google.com/notebook#fileId=1LSsc2M5D43cHxPw6p_24okU3L5uOfGad",
+  "cpu_count":  1,
+  "cpu_count_logical":  2,
+  "gpu":  "[Tesla T4]",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "120942624768",
+      "used":  "34687377408"
+    }
+  },
+  "memory":  {
+    "total":  "13609431040"
+  },
+  "cpu":  {
+    "count":  1,
+    "countLogical":  2
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "Tesla T4",
+      "memoryTotal":  "16106127360",
+      "cudaCores":  2560,
+      "architecture":  "Turing"
+    }
+  ],
+  "cudaVersion":  "12.2"
+}
