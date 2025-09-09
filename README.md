@@ -10,7 +10,7 @@ This repository provides a tool for detecting hand signs using a fine-tuned YOLO
   
 ## Demo
 
-![Hand Sign Detection Demo](demo.gif)
+<img src="src/demo.gif" alt="Hand Sign Detection Demo" width="600" height="350">
 
 ---
 
