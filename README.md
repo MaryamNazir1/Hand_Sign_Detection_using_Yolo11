@@ -7,6 +7,10 @@ This repository provides a tool for detecting hand signs using a fine-tuned YOLO
 - **Real-time Hand Sign Detection**: Uses a YOLO11 model to detect various hand signs in uploaded images or videos.
 - **User-Friendly Interface**: Built with Streamlit for easy interaction, allowing users to upload files and view results.
 - **Downloadable Results**: Users can download processed images and videos with bounding boxes and confidence scores.
+  
+## 🎥 Demo
+
+![Hand Sign Detection Demo](src/demo.gif)
 
 ---
 
