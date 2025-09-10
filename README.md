@@ -45,5 +45,5 @@ If you want to train the YOLO11 model on your own dataset, follow these steps:
 1. Prepare your dataset in the YOLO format.
 2. Utilize the training scripts provided in the train/ directory to fine-tune the model.
 3. Adjust the paths in the configuration files as necessary.
-4. For detailed training instructions, please refer to the YOLOv8 documentation.
+4. For detailed training instructions, please refer to the YOLO11 documentation.
 5. You can check the train model in this path 'runs/detect/train15/weights/best.onnx'.
